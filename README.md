@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <mohifdi>.*
+*This project has been created as part of the 42 curriculum by mohifdi.*
  
 # NetPractice
  
@@ -36,7 +36,6 @@ Across 10 progressively challenging levels, you learn how packets travel through
 - Click **Check again** to verify your configuration.
 - Click **Get my config** to download the configuration file for that level.
 - Once a level is validated, click **Next level** to proceed.
-> ⚠️ Always export your configuration with **Get my config** before moving to the next level.
  
 ### Submission
  
@@ -44,7 +43,6 @@ Across 10 progressively challenging levels, you learn how packets travel through
 - Export one configuration file per level using the **Get my config** button.
 - Place all **10 exported files** at the **root of your Git repository**.
 - Push your work to your repository as usual.
-> ⚠️ It is critical that you enter your login in the interface before exporting — the files are tied to your login and will be checked during evaluation.
  
 ### Evaluation
  
